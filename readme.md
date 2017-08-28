@@ -6,3 +6,5 @@
 
 
 - [linux](https://github.com/yijq/note/blob/master/linux_note.md)
+
+- [react](https://github.com/yijq/note/blob/master/react_note.md)

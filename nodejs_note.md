@@ -4,6 +4,7 @@
 
 
 - [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+> 偏向于基础概念，较全面
     + nodejs基础
     + 代码的组织与部署
     + 文件操作
@@ -14,12 +15,20 @@
 
     
 - [nodejs包教不包会](https://github.com/alsotang/node-lessons)
+> 偏向于实战应用，插件的运用
     + express框架创建应用
     + superagent与cheerio完成爬虫
     + eventproxy控制并发
     + async控制并发
     + 测试：mocha（测试框架） should（断言插件） istanbul（测试覆盖率）
     + 测试：benchmark测试运行速度
+
+- [node入门](https://www.nodebeginner.org/index-zh-cn.html)
+> 偏向于初级的node应用
+    + 构建了一个图片上传及预览的服务
+    + 基于事件驱动的回调
+    + 阻塞与非阻塞
+    + 路由的实现
 
 
 - [利用ESLint检查代码质量](http://cnodejs.org/topic/57c68052b4a3bca66bbddbdd)
