@@ -13,3 +13,7 @@
 - [阮一峰react入门教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
 
 - [react技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
+
+- [electron入门](https://www.w3cschool.cn/electronmanual/wcx31ql6.html)
+
+- [electron-react-ES6-nodejs开发桌面应用](http://blog.csdn.net/arnozhang12/article/details/51735815)
