@@ -16,4 +16,6 @@
 
 - [electron入门](https://www.w3cschool.cn/electronmanual/wcx31ql6.html)
 
+- [electron开发桌面应用](http://get.ftqq.com/7870.get)
+
 - [electron-react-ES6-nodejs开发桌面应用](http://blog.csdn.net/arnozhang12/article/details/51735815)
