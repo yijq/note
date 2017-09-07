@@ -19,3 +19,13 @@
 - [electron开发桌面应用](http://get.ftqq.com/7870.get)
 
 - [electron-react-ES6-nodejs开发桌面应用](http://blog.csdn.net/arnozhang12/article/details/51735815)
+
+- scratch-react-electron-webpack
+    - react与scratch组件负责页面的渲染(.jsx)
+    - babel负责将.jsx文件转义为可以在浏览器中运行的文件(es6转es5,jsx转js)
+    - webpack负责项目构建:实现热加载，项目代码的混肴与压缩，index.html的生成
+    - electron负责为项目加上native交互，打包生成app.
+
+- [create-reacte-app](https://github.com/facebookincubator/create-react-app)
+
+- [antd](https://ant.design/index-cn)
